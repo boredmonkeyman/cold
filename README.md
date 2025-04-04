@@ -5,5 +5,5 @@ it will say program start
 
 when it says program end it is done
 
-open logs folder and look for WALLETS folder
+open logs folder and look for 'Холодные кошельки' folder usually right at the bottom 
 
